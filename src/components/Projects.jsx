@@ -19,6 +19,10 @@ export function ProjectsPage() {
             <p>Webscraping tool for getting clusters of MRI images from <a href="https://radiopaedia.org/">https://radiopaedia.org/</a>.
              More details can be found <a href="">here.</a></p>
         </div>
+        <div className="mt-4">
+            <h2>Software engineering project</h2>
+            <p>Created frontend for student organisation snack kiosk management. More details can be found <a href="https://github.com/Ruokavalitys/rv-management-update-frontend">here.</a></p>
+        </div>
         </div>
     )
 }
