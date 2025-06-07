@@ -1,7 +1,7 @@
 import './App.css'
-import { AboutMePage } from './components/AboutMe.jsx'
-import { Header } from './components/Header.jsx'
-import { ProjectsPage } from './components/Projects.jsx'
+import { AboutMePage } from './components/AboutMe.js'
+import { Header } from './components/Header.js'
+import { ProjectsPage } from './components/Projects.js'
 import { useState } from 'react'
 
 function App() {
