@@ -3,8 +3,8 @@ export function AboutMePage() {
     return (
         <div id="about" className="-mt-50">
             <h1>Sami Kazan</h1>
-            <h3 className="mt-6">  Currently completing a Bachelor's degree in Computer Science at the University of Helsinki, 
-                with a strong passion for full-stack development and technology.</h3>
+            <h3 className="mt-6">  Currently completing my Masters degree in Data science at the University of Helsinki, 
+                with a strong passion for data analysis, full-stack development and technology.</h3>
 
             <ul className="mt-6">
                 <li className="mt-2">

@@ -21,7 +21,7 @@ export function ProjectsPage() {
         </div>
         <div className="mt-4">
             <h2>Software engineering project</h2>
-            <p>Created frontend for student organisation snack kiosk management using Typescript, nextjs. More details can be found <a href="https://github.com/Ruokavalitys/rv-management-update-frontend">here.</a></p>
+            <p>Created frontend for student organisation snack kiosk management as a group project using Typescript, nextjs and docker. More details can be found <a href="https://github.com/Ruokavalitys/rv-management-update-frontend">here.</a></p>
         </div>
         </div>
     )
