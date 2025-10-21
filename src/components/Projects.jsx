@@ -10,9 +10,9 @@ export function ProjectsPage() {
             <a href="https://blogisite-l151.onrender.com">https://blogisite-l151.onrender.com</a>
         </div>
         <div className="mt-4">
-            <h2>Phonebook site</h2>
-            <p>Simple phonebook site using Vite and mongoDB</p>
-            <a href="https://puhelinluettelon-backend-i3fx.onrender.com/">https://puhelinluettelon-backend-i3fx.onrender.com/</a>
+            <h2>Wine recommender (pocket sommelier)</h2>
+            <p>Data science group project taht recommends 5 wines based on input tastes. More details about the project can be found <a href="https://github.com/Ruokavalitys/rv-management-update-frontend">here.</a></p>
+            <a href="https://pocket-sommellier.onrender.com">https://pocket-sommellier.onrender.com</a>
         </div>
         <div className="mt-4">
             <h2>ImageScraper</h2>
